@@ -4,6 +4,7 @@ html {background-color: #555;}
 h1 {color: white;font-family: helvetica;}
 .row {
 	width: 100%;
+	display: flex;
 }
 
 .col-1 {
